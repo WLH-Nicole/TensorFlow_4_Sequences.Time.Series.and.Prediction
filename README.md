@@ -1,1 +1,2 @@
-# TensorFlow_4_Sequences.Time.Series.and.Prediction
+## Sequences, Time Series and Prediction
+## (TensorFlow in Practice Specialization, deeplearning.ai on Coursera)
